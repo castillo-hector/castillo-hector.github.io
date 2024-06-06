@@ -1,0 +1,4 @@
+baseURL = 'https://castillo-hector.github.io/'
+languageCode = 'en-us'
+title = 'Hector Castillo'
+theme = 'hugo-book'
